@@ -59,4 +59,25 @@ router.post("/register", async (req, res) => {
   //     .catch((err) => console.log(err));
 });
 
+//-----------login---------//
+router.post("/signin", async (req, res) => {
+  //   console.log(req.body);
+  //   res.json({ message: "I am Connected" });
+  try {
+    const { email, password } = req.body;
+    if (!email || !password) {
+      return res.status(400).json({ error: "pls field the data" });
+    } else {
+      const userLogin = await User.findOne({ email: email });
+      console.log(userLogin);
+      if (!userLogin) {
+        res.status(400).json({ message: "invalid crediential" });
+      } else {
+        res.json({ message: "user Signin Successfully" });
+      }
+    }
+  } catch (err) {
+    console.log(err);
+  }
+});
 module.exports = router;
