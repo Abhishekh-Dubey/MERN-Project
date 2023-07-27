@@ -18,6 +18,10 @@ router.post("/register", async (req, res) => {
 
       if (userExist) {
         return res.status(422).json({ error: "Email allready exist" });
+      } else if (password !== cpassword) {
+        return res
+          .status(422)
+          .json({ error: "Password And Re-Password dos'not match." });
       } else {
         const user = new User({
           name,
@@ -27,6 +31,8 @@ router.post("/register", async (req, res) => {
           password,
           cpassword,
         });
+        // middleware bcrypt.hash between this two code running//
+        // bcrypt.hash for the secure the password
         const userRegister = await user.save();
         if (userRegister) {
           res.status(201).json({ message: "User registered successfuly" });
