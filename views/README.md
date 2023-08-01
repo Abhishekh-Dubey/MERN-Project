@@ -1,4 +1,5 @@
-![Screenshot 2023-08-01 154339](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/6521b369-e796-43d0-ac12-ad4736e428c2)![Screenshot 2023-08-01 154324](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/71f471b1-bc0c-4524-9568-f80784ef8cdd)# Getting Started with Create React App
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # OUTPUT
