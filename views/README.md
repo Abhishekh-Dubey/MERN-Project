@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+![Screenshot 2023-08-01 154339](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/6521b369-e796-43d0-ac12-ad4736e428c2)![Screenshot 2023-08-01 154324](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/71f471b1-bc0c-4524-9568-f80784ef8cdd)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# OUTPUT
+
+![Screenshot 2023-08-01 154231](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/362892af-3818-4f8e-be1f-9da512bb903e)
+![Screenshot 2023-08-01 154250](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/054a44d5-7cb8-4462-81f5-6db48e021450)
+![Screenshot 2023-08-01 154306](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/20eb5779-ec37-4ca4-b6ff-89f82cb91983)
+![Screenshot 2023-08-01 154324](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/4d27fecf-5890-46a4-b180-deb21dc4604b)
+![Screenshot 2023-08-01 154339](https://github.com/Abhishekh-Dubey/MERN-Project/assets/110678374/3e235b9e-3d36-4f14-b471-1278efb3a097)
 
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
