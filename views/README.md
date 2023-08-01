@@ -1,5 +1,5 @@
 
-# Getting Started with Create React App
+# Getting Started with MERN Project Login and Registration
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # OUTPUT
