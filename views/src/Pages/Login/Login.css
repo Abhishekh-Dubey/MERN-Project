@@ -1,0 +1,21 @@
+.login-container {
+  max-width: 100% !important;
+  padding-top: 80px !important;
+  height: 92.5vh;
+  background: linear-gradient(
+    to bottom right,
+    paleturquoise 0%,
+    pink 50%,
+    pink 50%,
+    paleturquoise 100%
+  );
+}
+.login-col {
+  box-shadow: 0px 0px 33px #00000085;
+  width: 80% !important;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.login_button {
+  width: 100% !important;
+}

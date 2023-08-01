@@ -1,0 +1,69 @@
+.about-container {
+  max-width: 100% !important;
+  padding-top: 50px !important;
+  height: 92.5vh;
+  background: linear-gradient(
+    to bottom right,
+    paleturquoise 0%,
+    pink 50%,
+    pink 50%,
+    paleturquoise 100%
+  );
+}
+.about-col {
+  width: 70%;
+  margin-left: 15%;
+}
+.img-conteiner {
+  width: 200px;
+  margin-left: 15%;
+}
+.img-con {
+  width: 100%;
+}
+.about-form {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.left_container {
+  text-align: left;
+}
+
+.left_container h6 {
+  color: rgb(18, 110, 230);
+}
+.about-nav-link {
+  /* background-color: black !important; */
+  color: aqua !important;
+  border-top: none !important;
+  border-left: none !important;
+  /* line-height: 90px !important; */
+  border-right: none !important;
+}
+.profile-edit-btn {
+  width: 60px;
+  background-color: rgb(9, 127, 230);
+  color: aliceblue;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.profile-edit-btn:hover {
+  width: 65px;
+  margin-left: 2px;
+  margin-top: -2px;
+  background-color: rgb(9, 127, 230);
+  color: aliceblue;
+  border: none;
+  border-radius: 4px;
+}
+.my-links a {
+  color: aliceblue;
+  /* text-decoration: none; */
+  line-height: 30px !important;
+}
+
+.about-details {
+  text-align: left !important;
+  margin-left: 2px !important;
+}
